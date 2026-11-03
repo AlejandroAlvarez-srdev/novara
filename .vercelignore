@@ -1,0 +1,15 @@
+node_modules/
+.next/
+.git/
+artifacts/
+tests/
+test-results/
+playwright-report/
+playwright.config.ts
+scripts/
+brand/source/
+brand/ASSETS.md
+README.md
+.env*
+*.tsbuildinfo
+.DS_Store
